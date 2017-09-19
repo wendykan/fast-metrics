@@ -1,3 +1,7 @@
+```
+credit to Rafael Crescenzi https://www.kaggle.com/c/masters-caesars-customer-gaming-prediction/discussion/39544
+```
+
 import numpy as np
 from numba import jit 
 
